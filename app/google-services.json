@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "457669465597",
+    "firebase_url": "https://api-project-457669465597.firebaseio.com",
+    "project_id": "api-project-457669465597",
+    "storage_bucket": "api-project-457669465597.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:457669465597:android:a8a90375877a059340f594",
+        "android_client_info": {
+          "package_name": "com.bratin.fcmpushnotificationpoc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "457669465597-mh8gdc0aev15rbm5g5jooc1dqbl5uvo3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDI59fNvII-QjXc7RfoG_XDlB8d0_yQBRk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "457669465597-mh8gdc0aev15rbm5g5jooc1dqbl5uvo3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
